@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Robotic Modelling &amp;amp; Drone Skin Design</title>
-    <link>https://mead-one.github.io/</link>
-    <description>Recent content in Home on Robotic Modelling &amp;amp; Drone Skin Design</description>
+    <title>Typescript on Robotic Modelling &amp;amp; Drone Skin Design</title>
+    <link>https://mead-one.github.io/tags/typescript/</link>
+    <description>Recent content in Typescript on Robotic Modelling &amp;amp; Drone Skin Design</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mead-one.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://mead-one.github.io/about/</link>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://mead-one.github.io/about/</guid>
-      <description>&lt;main&gt;&#xA;    &lt;div class=&#34;container&#34;&gt;&#xA;&lt;h2&gt;Software Developer and AI &amp;amp; Robotics Student Based in Stoke-on-Trent&lt;/h2&gt;&#xA;&lt;p&gt;My name is Christopher Mead, or &#34;Chris&#34; for short.&#xA;&#xA;&lt;h3&gt;Education&lt;/h3&gt;&#xA;&lt;p&gt;I&#39;m an undergraduate student of &lt;em&gt;AI &amp;amp; Robotics&lt;/em&gt;, going into my final year. This bachelor&#39;s degree has provided me with hands-on experience building autonomous robots, training machine learning models, and programming microcontrollers in C. It has also fleshed out my technical foundation, which now includes a firm grasp of the fundamentals of both machine learning and classical AI techniques.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>STL Test</title>
-      <link>https://mead-one.github.io/blog/2025-10-14-stl-test/</link>
-      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://mead-one.github.io/blog/2025-10-14-stl-test/</guid>
-      <description>&lt;section id=&#34;intro&#34;&gt;&#xA;    &lt;script src=&#34;https://embed.github.io/view/3d/stephenyeargin/stl-files/main/Bridgestone%20Arena.stl&#34;&gt;&lt;/script&gt;&#xA;&lt;/section&gt;</description>
-    </item>
+    <lastBuildDate>Sat, 12 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mead-one.github.io/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello, World!</title>
       <link>https://mead-one.github.io/blog/2025-07-12-hello-world/</link>
