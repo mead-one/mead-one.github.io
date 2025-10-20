@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Robotic Modelling &amp;amp; Drone Skin Design</title>
+    <title>Phases on Robotic Modelling &amp;amp; Drone Skin Design</title>
     <link>https://mead-one.github.io/blog/</link>
-    <description>Recent content in Blog on Robotic Modelling &amp;amp; Drone Skin Design</description>
+    <description>Recent content in Phases on Robotic Modelling &amp;amp; Drone Skin Design</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate>
@@ -14,13 +14,6 @@
       <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://mead-one.github.io/blog/2025-10-14-stl-test/</guid>
       <description>&lt;section id=&#34;intro&#34;&gt;&#xA;    &lt;script src=&#34;https://embed.github.io/view/3d/stephenyeargin/stl-files/main/Bridgestone%20Arena.stl&#34;&gt;&lt;/script&gt;&#xA;&lt;/section&gt;</description>
-    </item>
-    <item>
-      <title>Hello, World!</title>
-      <link>https://mead-one.github.io/blog/2025-07-12-hello-world/</link>
-      <pubDate>Sat, 12 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://mead-one.github.io/blog/2025-07-12-hello-world/</guid>
-      <description>&lt;p&gt;Welcome to the new blog section of my website! This is a test post to see if everything is working as expected.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hugo&#34;&gt;Hugo&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; to generate the site, and I&amp;rsquo;m very happy with the results so far. It offers many of the features I&amp;rsquo;ve come to expect from a back-end framework, such as:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Highly flexible templates, massively cutting down on duplicated code and its maintenance&lt;/li&gt;&#xA;&lt;li&gt;Built-in support for &lt;a href=&#34;https://en.wikipedia.org/wiki/Markdown&#34;&gt;Markdown&lt;/a&gt;, which I&amp;rsquo;m using to write this blog post, allowing:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Extensive formatting and styling options without having to write a lot of HTML&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Easy &lt;strong&gt;**bold**&lt;/strong&gt;, &lt;em&gt;_italic_&lt;/em&gt;, &lt;em&gt;&lt;strong&gt;_**bold and italic**_&lt;/strong&gt;&lt;/em&gt;, &lt;del&gt;~~strikethrough~~&lt;/del&gt;, and `&lt;code&gt;inline code&lt;/code&gt;`&lt;/li&gt;&#xA;&lt;li&gt;Nested ordered and unordered lists&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Full code highlighting&lt;/li&gt;&#xA;&lt;li&gt;Easy embedding of images &lt;img src=&#34;https://mead-one.github.io/img/blog/2025-07-11-hello-world/00-logo.png&#34; alt=&#34;Logo&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Highly configurable behaviour, programmed with the &lt;a href=&#34;https://go.dev/&#34;&gt;Go programming language&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Generation of custom navigation menus&lt;/li&gt;&#xA;&lt;li&gt;Paginated navigation menus for sections containing multiple pages that are updated regularly, such as my &lt;a href=&#34;https://mead-one.github.io/projects&#34;&gt;Projects&lt;/a&gt; section and this blog&lt;/li&gt;&#xA;&lt;li&gt;Customised taxonomies, such as the &lt;a href=&#34;https://mead-one.github.io/tags&#34;&gt;Tags&lt;/a&gt; section, for grouping posts by topic&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Automatic cache-busting and minification of assets, such as CSS and transpiled JavaScript files&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;These benefits come without the drawbacks of executing back-end software on the server and enable the site to be hosted on simple, cheap packages as the static content is generated at build-time. This means the web server only needs to serve static files with no extra processing required once it&amp;rsquo;s on the server.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
