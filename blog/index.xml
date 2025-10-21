@@ -6,8 +6,15 @@
     <description>Recent content in Phases on Robotic Modelling &amp;amp; Drone Skin Design</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Oct 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mead-one.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with Autodesk Fusion</title>
+      <link>https://mead-one.github.io/blog/2025-10-21-start-fusion/</link>
+      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://mead-one.github.io/blog/2025-10-21-start-fusion/</guid>
+      <description>&lt;p&gt;I created the following STL file with &lt;em&gt;Autodesk Fusion&lt;/em&gt;, while using&#xA;    the software for the first time and learning its features.&lt;/p&gt;&#xA;&#xA;&lt;script src=&#34;https://embed.github.com/view/3d/mead-one/RMaDSD-website/main/assets/stl/testgear.stl&#34;&gt;&lt;/script&gt;</description>
+    </item>
     <item>
       <title>STL Test</title>
       <link>https://mead-one.github.io/blog/2025-10-14-stl-test/</link>
