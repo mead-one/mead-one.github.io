@@ -15,7 +15,7 @@ gantt
     3D Factory Workshop             :done, 3dfactoryintro, 2025-11-18, 1d
 
     section Group Project
-    Project Group Assigned          :done,  groupassigned, 2025-10-14, 2026-05-06
+    Project Group Assigned          :done,  groupassigned, 2025-10-14, 1d
     Group Project Assignment        : groupproject, 2025-12-02, 2026-05-05
 ```
 
