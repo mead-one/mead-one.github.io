@@ -8,7 +8,7 @@ gantt
     dateformat YYYY-MM-DD
     title Robotic Modelling and Drone Skin Design
 
-    section First Semester
+    section Instruction and Workshops
     Introduction to Fusion 3D       :milestone, fusionintro, 2025-10-21, 0d
     Workshop - 3D Scanning Workshop :milestone, w3dscan, 2025-11-04, 0d
     Workshop - Motion Capture       :milestone, wmocap, 2025-11-11, 0d
