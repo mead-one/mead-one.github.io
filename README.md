@@ -12,13 +12,12 @@ gantt
     Introduction to Fusion 3D       :milestone, fusionintro, 2025-10-21, 0d
     Workshop - 3D Scanning Workshop :milestone, w3dscan, 2025-11-04, 0d
     Workshop - Motion Capture       :milestone, wmocap, 2025-11-11, 0d
+    Workshop - 3D Factory           :milestone, w3dfactory, 2025-11-18, 0d
     Workshop - Blender              :milestone, wblender1, 2025-12-16, 0d
     Workshop - More Blender         :milestone, wblender2, 2026-01-06, 0d
     Guest Lecture - Material Science    :milestone, matsc, 2026-03-25, 0d
     Workshop - Virtual Production   :milestone, wvprod, 2026-04-28, 0d
 
-    Motion Capture Technical Instruction    :done, mocapintro, 2025-11-11, 1d
-    3D Factory Workshop             :done, 3dfactoryintro, 2025-11-18, 1d
 
     section Group Project
     Project Group Assigned          :milestone,  groupassigned, 2025-10-14, 1d
