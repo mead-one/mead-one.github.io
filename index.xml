@@ -6,14 +6,49 @@
     <description>Recent content in Home on Robotic Modelling &amp;amp; Drone Skin Design</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 21 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mead-one.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Getting Started with Autodesk Fusion</title>
-      <link>https://mead-one.github.io/blog/2025-10-21-start-fusion/</link>
-      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://mead-one.github.io/blog/2025-10-21-start-fusion/</guid>
-      <description>&lt;p&gt;I created the following STL file with &lt;em&gt;Autodesk Fusion&lt;/em&gt;, while using&#xA;    the software for the first time and learning its features.&lt;/p&gt;&#xA;&#xA;&lt;script src=&#34;https://embed.github.com/view/3d/mead-one/RMaDSD-website/main/assets/stl/testgear.stl&#34;&gt;&lt;/script&gt;</description>
+      <title>Bibliography</title>
+      <link>https://mead-one.github.io/blog/2026-05-14-evaluation/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://mead-one.github.io/blog/2026-05-14-evaluation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Evaluation</title>
+      <link>https://mead-one.github.io/blog/2026-05-15-bibliography/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://mead-one.github.io/blog/2026-05-15-bibliography/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Building the Soapomorph</title>
+      <link>https://mead-one.github.io/blog/2026-04-18-building/</link>
+      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://mead-one.github.io/blog/2026-04-18-building/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Designing the Soapomorph</title>
+      <link>https://mead-one.github.io/blog/2026-01-16-design/</link>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://mead-one.github.io/blog/2026-01-16-design/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Attending Workshops and Exploring Technologies</title>
+      <link>https://mead-one.github.io/blog/2025-12-03-workshops/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://mead-one.github.io/blog/2025-12-03-workshops/</guid>
+      <description>&lt;p&gt;A series of workshops were organised to facilitate the group&amp;rsquo;s exposure to the&#xA;technologies and tools required to complete the &lt;em&gt;Soapomorph&lt;/em&gt; project.&lt;/p&gt;&#xA;&lt;div class=&#34;mermaid&#34;&gt;gantt&#xA;    dateformat YYYY-MM-DD&#xA;    title Robotic Modelling &amp;amp; Drone Skin Design Workshops&#xA;&#xA;    Introduction to Fusion 3D       :milestone, fusionintro, 2025-10-21, 0d&#xA;    Workshop - 3D Scanning Workshop :milestone, w3dscan, 2025-11-04, 0d&#xA;    Workshop - Motion Capture       :milestone, wmocap, 2025-11-11, 0d&#xA;    Workshop - 3D Factory           :milestone, w3dfactory, 2025-11-18, 0d&#xA;    Workshop - Blender              :milestone, wblender1, 2025-12-16, 0d&#xA;    Workshop - More Blender         :milestone, wblender2, 2026-01-06, 0d&#xA;    Guest Lecture - Material Science    :milestone, matsc, 2026-03-25, 0d&#xA;    Workshop - Virtual Production   :milestone, wvprod, 2026-04-28, 0d&#xA;&lt;/div&gt;&#xA;&#xA;&lt;h2 id=&#34;3d-modelling&#34;&gt;3D Modelling&lt;/h2&gt;&#xA;&lt;p&gt;The workshops provided the group with opportunities for hands-on experience with&#xA;two 3D modelling software packages: &lt;em&gt;Autodesk Fusion&lt;/em&gt; and &lt;em&gt;Blender&lt;/em&gt;, each&#xA;posessing advantages and drawbacks depending on the use case.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Group Forming and Project Brainstorming</title>
+      <link>https://mead-one.github.io/blog/2025-12-02-group-forming/</link>
+      <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://mead-one.github.io/blog/2025-12-02-group-forming/</guid>
+      <description>&lt;h2 id=&#34;group-formation&#34;&gt;Group Formation&lt;/h2&gt;&#xA;&lt;p&gt;A group of people was formed from the cohort of students studying the &lt;em&gt;Robotic&#xA;Modelling and Drone Skin Design&lt;/em&gt; module as part of the &lt;em&gt;AI &amp;amp; Robotics&lt;/em&gt;&#xA;Bachelor&amp;rsquo;s degree, for the purpose of designing, manufacturing and assembling&#xA;a product suitable for demonstrating the following technologies:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;3D scanning hardware and software&lt;/li&gt;&#xA;&lt;li&gt;Motion capture hardware and software&lt;/li&gt;&#xA;&lt;li&gt;Computer Aided Design (CAD) software&lt;/li&gt;&#xA;&lt;li&gt;3D modelling software&lt;/li&gt;&#xA;&lt;li&gt;Haptic input hardware paired with associated 3D sculpting software&lt;/li&gt;&#xA;&lt;li&gt;3D printing hardware&lt;/li&gt;&#xA;&lt;li&gt;Laser cutting hardware&lt;/li&gt;&#xA;&lt;li&gt;Resin production and postproduction&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;A well-balanced group emerged from the formation process, with a varied&#xA;combination of specialities, including proficiency at 3D modelling with Blender,&#xA;ability to create both 2D and 3D designs using CAD software, skill in woodworking,&#xA;and extensive experience with relevant electronic components such as servo motors&#xA;and the allowances, required to house and connect them.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
