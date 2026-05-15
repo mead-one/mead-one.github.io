@@ -6,14 +6,14 @@
     <description>Recent content in 3d Printing on Robotic Modelling &amp;amp; Drone Skin Design</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 18 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://mead-one.github.io/tags/3d-printing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building the Soapomorph</title>
-      <link>https://mead-one.github.io/blog/2026-04-18-building/</link>
-      <pubDate>Sat, 18 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://mead-one.github.io/blog/2026-04-18-building/</guid>
-      <description></description>
+      <link>https://mead-one.github.io/blog/2026-05-13-building/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://mead-one.github.io/blog/2026-05-13-building/</guid>
+      <description>&lt;p&gt;While the CAD and STL files were completed, lack of availability of resources,&#xA;such as the 3D Factory&amp;rsquo;s 3D printers and laser cutters, meant that not all&#xA;components could be manufactured within the project&amp;rsquo;s timeframe.&lt;/p&gt;&#xA;&lt;h2 id=&#34;skull-jaw-and-tongue&#34;&gt;Skull, Jaw and Tongue&lt;/h2&gt;&#xA;&lt;p&gt;As a substitute for the topmost, 3D printed components, an animation was produced&#xA;in Blender to simulate the movement of the jaw and tongue, shown in &lt;em&gt;Figure 1&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;figure&gt;&#xA;  &lt;img src=&#34;https://mead-one.github.io/img/SkullAnimated.gif&#34; width=&#34;960&#34; height=&#34;540&#34; /&gt;&#xA;  &lt;figcaption&gt;&lt;strong&gt;&lt;em&gt;Figure 1&lt;/em&gt;&lt;/strong&gt;: The animation of the Soapomorph&#39;s jaw and tongue.&lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;p&gt;Due to time and experience constraints, the jaw and tongue do not move&#xA;simultaneously like the actual mechanism inherently would, but it provides a&#xA;useful demonstration of the mechanism&amp;rsquo;s movement and the detachable lid. It also&#xA;provides a preview of the visibility of the join, where the separately printed&#xA;back and front of the skull meet.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
